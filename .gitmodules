@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "standardize"]
 	path = standardize
 	url = https://github.com/cdeager/standardize
-	shallow = true
-	registered = true
